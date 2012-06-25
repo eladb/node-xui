@@ -1,0 +1,11 @@
+{
+  "author": "Elad Ben-Israel <elad.benisrael@gmail.com>",
+  "name": "xui",
+  "description": "npm package for xui.js",
+  "version": "0.0.1",
+  "main": "lib/xui",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {}
+}
