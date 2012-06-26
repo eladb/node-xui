@@ -1,7 +1,13 @@
 # node-xui
 
 An npm package wrapper for the awesome [xui.js](http://xuijs.org).
-I am using it to create onejs apps that use xui explicitly (and not assuming it is in the global namespace).
+
+This currently doesn't work on the server, only the browser. I am using it to create client side onejs apps that use xui 
+explicitly (and not assuming it is in the global namespace).
+
+TODO:
+ * Support using jsdom to bind it to a server side document.
+
 
 ## Usage
 
