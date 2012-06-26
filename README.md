@@ -8,6 +8,15 @@ explicitly (and not assuming it is in the global namespace).
 TODO:
  * Support using jsdom to bind it to a server side document.
 
+## Install
+
+Install with npm:
+
+```bash
+$ npm install xui
+```
+
+Bundle with [onejs](https://github.com/azer/onejs).
 
 ## Usage
 
