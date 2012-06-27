@@ -1,6 +1,6 @@
 # node-xui
 
-An npm package wrapper for the awesome [xui.js](http://xuijs.org).
+An npm package wrapper for the awesome [xui.js](http://xuijs.com).
 
 This currently doesn't work on the server, only the browser. I am using it to create client side onejs apps that use xui 
 explicitly (and not assuming it is in the global namespace).
@@ -25,7 +25,7 @@ var x$ = require('xui');
 x$('bla').havefun();
 ```
 
-See [xui.js](http://xuijs.org) for documentation.
+See [xui.js](http://xuijs.com) for documentation.
 
 # License
 
